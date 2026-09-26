@@ -1,3 +1,3 @@
 # Week1-Mr.Khayleb-exercise
-Person 2 was here
+Person 1 was here
 person 2 was here
